@@ -136,4 +136,13 @@
   	<servlet-name>ServletContextDemo6</servlet-name>
   	<url-pattern>/servletContextDemo6</url-pattern>
   </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>ServletContextDemo7</servlet-name>
+  	<servlet-class>com.brains.servlet.ServletContextDemo7</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ServletContextDemo7</servlet-name>
+  	<url-pattern>/servletContextDemo7</url-pattern>
+  </servlet-mapping>
 </web-app>
